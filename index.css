@@ -1,0 +1,66 @@
+.img{
+          position: relative;
+          width: 170px;
+          margin-left: 60px;
+}
+.logo{
+          margin-left: 180px;
+          width: 60px;
+}
+.section{
+          
+}
+.form{
+          height: 80px;
+          width: 480px;
+          margin-top: -30px;
+          
+}
+.form{
+ margin-left: 30%         
+}
+.para{
+          text-align: center;
+          width: 450px;
+          margin-top: 10px;
+}
+
+.p{
+          background-color: rgb(196, 190, 190);
+          text-align: center;
+          height: 22px;
+}
+.pp{
+background-color: rgb(172, 168, 168);
+}
+.ppp{
+          color: white;
+background-color:rgb(36, 50, 248);
+text-align: center;
+width: 25x;
+height: 23px;
+border-radius: 4px;
+}
+.overflow{
+          property: overflow, auto hidden visible scroll,
+    
+}
+
+.btn{
+          text-align: center;
+           height: 35px;
+          width: 480px;
+          margin-top: 60px;
+          
+          color: white;
+          background-color: rgb(36, 50, 248);
+          font-family:Arial, Helvetica, sans-serif;
+          
+}
+.terms{
+          text-align: center;
+           height: 35px;
+          width: 480px;
+          margin-top: 80px;      
+          
+}
